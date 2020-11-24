@@ -1,5 +1,8 @@
 ## Youtube-video-downloader
 
+### Installation
+```pip install -r requirements.txt```
+
 ### Usage
 ```
 youtube-downloader-cli.py [-h] [--link LINK] [--file FILE] [--audio]
